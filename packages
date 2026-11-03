@@ -1,11 +1,11 @@
 cloc
+cmake
 elinks
 fish
 git
 httpie
 helix
 moreutils
-octave
 parallel
 sox
 tree
