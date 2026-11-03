@@ -1,5 +1,11 @@
+cloc
+elinks
+fish
 git
+httpie
 hx
 moreutils
+octave
 parallel
+sox
 tree
